@@ -3,4 +3,4 @@
 
 Status | Book | End #Week
 -----|------|----------
-:blue_book:| OSTEP Tree easy paces | 46-47.2017
+:blue_book:| OSTEP Tree easy peaces | 46-47.2017
